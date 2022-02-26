@@ -1,0 +1,216 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An Apologie for Mr. Iohn Goodwin: who having subscribed proposalls to be presented to the magistrate concerning matters of religion; after that, makes 30 Queries, whether it be the magistrates duty to interpose his authoritie in matters of religion.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1653</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 20 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A75502</idno>
+            <idno type="STC">Wing A3545</idno>
+            <idno type="STC">Thomason E690_5</idno>
+            <idno type="STC">ESTC R206986</idno>
+            <idno type="EEBO-CITATION">99866064</idno>
+            <idno type="PROQUEST">99866064</idno>
+            <idno type="VID">118324</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A75502)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 118324)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 106:E690[5])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An Apologie for Mr. Iohn Goodwin: who having subscribed proposalls to be presented to the magistrate concerning matters of religion; after that, makes 30 Queries, whether it be the magistrates duty to interpose his authoritie in matters of religion.</title>
+               </titleStmt>
+               <extent>[2], 9, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for John Wright, at the Kings Head in the Old-Bayley,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1653.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "March. 28".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Goodwin, John, 1594?-1665. --  Thirty queries --  Early works to 1800.</term>
+               <term>Church and state --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-03</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2011-03</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:118324:1" rendition="simple:additions"/>
+            <p>AN APOLOGIE FOR M<hi rend="sup">r.</hi> Iohn Goodwin: Who having Subſcribed Propoſalls to be preſented to the Magiſtrate concerning matters of Religion; after that, Makes 30 <hi>Queries,</hi> whether it be the Magiſtrates duty to inter<g ref="char:EOLhyphen"/>poſe his Authoritie in matters of RELIGION.</p>
+            <q>
+               <bibl>
+                  <hi>Ephe. 4.14.</hi>
+               </bibl>
+               <p>Be no more Children toſſed too and fro, car<g ref="char:EOLhyphen"/>ryed about with every wind of Doctrine.</p>
+            </q>
+            <q>
+               <bibl>
+                  <hi>Joh. 9.41.</hi>
+               </bibl>
+               <p>If ye were blind, ye ſhould have no ſin: but now ye ſay, We ſee: therefore your ſinne remaineth.</p>
+            </q>
+            <q>
+               <bibl>
+                  <hi>Optat. Lib.</hi> 3.</bibl>
+               <p>Ille [Donatus Schiſmaticus] ſolito furore ſuccenſus, in haec ver<g ref="char:EOLhyphen"/>ba prorupit; Quid eſt imperatori cum Ecleſia?</p>
+            </q>
+            <q>
+               <bibl>
+                  <hi>Idem. Ib.</hi>
+               </bibl>
+               <p>Conſtat [Macarium Proconſulem] in eos vindicaſſe, a quibus juſſio divina contempta eſt; Nam, non tibi facies ſculptiſe, Dei vox eſt.</p>
+            </q>
+            <p>
+               <hi>London,</hi> Printed for <hi>John Wright,</hi> at the Kings Head in the Old-Bayley, 1653.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:118324:2"/>
+            <pb n="1" facs="tcp:118324:2"/>
+            <head>An APOLOGIE for M<hi rend="sup">r.</hi> 
+               <hi>John Goodwin.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">M</seg>Ens judgements are as various as their Pallats; and Books and Diſhes ſeldom come to two perſons with one and the ſame reliſh: For as <hi>Elihu</hi> ſpeaks in <hi>Job, The Ear tryes words as the mouth taſtes meat.</hi> It were therefore no wonder if Mr. <hi>Goodwins</hi> thirty <hi>Queries</hi> met with thirty times thirty cenſures.</p>
+            <p>But the main <hi>Querie</hi> and wonder is, How the ſame hand could ſubſcribe the Miniſters Propoſals for advancement of Religion preſented to the ſupream Magiſtrate, and yet propoſe this Queſtion.</p>
+            <p>Whether the Civill Magiſtrate ſtands bound by way of Duty, to interpoſe his Power or Authority in matters of Religion, or worſhip of God: and upon the baſis of this propoſall, raiſe a fabrick of Queries thiry ſtories high.</p>
+            <p>But to Vindicate Mr. <hi>Goodwin</hi> from the miſtakes of thoſe, who upon this laſt account may be apt to cenſure him as inconſiſtent with himſelfe; The Reader (with his good leave) ſhall have this Apology for him, that among the thirty Queries propounded by him, there is not one to be found, but is either,
+<list>
+                  <item>1. Impertinent,</item>
+                  <item>or 2. Impotent, as to the inſinuating any ſcruple againſt his own and the Mini<g ref="char:EOLhyphen"/>ſters Propoſals.</item>
+               </list>
+And therefore as he proſeſſes, ſo he hath
+<pb n="2" facs="tcp:118324:3"/>really dealt modeſtly in the buſineſſe, and not at all de<g ref="char:EOLhyphen"/>ſtroi'd the things which he had builded.</p>
+            <p>To evince the Impertinency of Mr. <hi>Goodwins</hi> Queries, as to the creating any doubt againſt the Miniſters and Mr. <hi>Goodwins</hi> Propoſals, and conſequently that Mr. <hi>Goodwin</hi> in the one, and Mr. <hi>Goodwin</hi> in the other, are not Antagoniſts as ſome would fancy. Firſt, It is to be premiſed; that Mr. <hi>Goodwin</hi> may juſtly expect this Right from the Reader, not to be interpreted as ſetting his hand to the maine Querie, (which is the Root upon which his thirty queſtiuncles as ſo many Filaments depend) againſt his hand to the Mini<g ref="char:EOLhyphen"/>ſters propoſals, nor his hand to thoſe againſt his heart in this; provided ſuch a ſenſe may be given of his words as will fairly and without violence accomodate both. And that ſuch may be given, need not be doubted: for if the interpoſition of the civill Magiſtrates power, which Mr. <hi>Goodwin</hi> ſcruples in the prementioned Queſtion, be under<g ref="char:EOLhyphen"/>ſtood of a Coercive Power in matters of Faith and Wor<g ref="char:EOLhyphen"/>ſhip; a Power that like a Spaniſh Inquiſition, or an Eng<g ref="char:EOLhyphen"/>liſh High Commiſſion Court, would compell to a confor<g ref="char:EOLhyphen"/>mity unto the publique profeſſion and practiſe; with ſuch a power the Miniſters hold as little correſpondencie as Mr. <hi>Goodwins</hi> Queries, and conſequently, Mr. <hi>Goodwin</hi> in his Queries, quarrels not with Mr. <hi>Goodwin</hi> in his Propo<g ref="char:EOLhyphen"/>ſals, but there is a mutuall harmony in the one and the other; <hi>Etres conjurat amice.</hi>
+            </p>
+            <p>But to take the confidence to advance one ſtep further, It is affirmed in the ſecond place, that Mr. <hi>Goodwin</hi> not on<g ref="char:EOLhyphen"/>ly may, but indeed muſt be ſo underſtood; at leaſt, if the Vote of the major part of his Queſtions may carry it. Let them who thinke it worth their leiſure, examine the par<g ref="char:EOLhyphen"/>ticulars, ſince of twenty eight; that is, of all, all but the two laſt Queries, may without wrong to Juſtice, be acquitted of being guilty of ſuggeſting any pertinent ſcruple againſt the Power of the Magiſtrate in matters of Religion, ſave what concernes a conſtraint (by Mulcts,
+<pb n="3" facs="tcp:118324:3"/>Fines, Impriſonments, &amp;c.) to a conformity unto the publique profeſſion in matters of Faith: <hi>Ex ungue leonem.</hi> Take a taſte inſtead of all, of his ſixteen Querie. In this Querie, he cites <hi>Tertullian</hi> in theſe words: <hi>That it is palpably unreaſonable, that men who are free, ſhould be forced againſt their wils to ſacrifice; when as it is the willingneſſe of the minde that is required in all divine Services.</hi> Yea, <hi>it may be well judged ridiculous, that one man ſhould bee compel'd by another to honour the Gods; when as hee stands bound at his per<g ref="char:EOLhyphen"/>rill to render thoſe propitious to him of is owne ac<g ref="char:EOLhyphen"/>cord,</hi> &amp;c. And <hi>Ambroſe</hi> thus: <hi>The Law of God hath taught us what we are to follow, the Lawes of Men cannot teach us this.</hi>
+            </p>
+            <p>They may extort from perſons a timerous change, but they cannot inſpire beliefe. Upon theſe Authorities, Mr. <hi>Goodwin</hi> infers, That the Senſe of Antiquity was, that mat<g ref="char:EOLhyphen"/>ters of Faith did not at all appertaine to the Cognizance of the Chriſtian Magiſtrate, as a Magiſtrate: That is, (as the words of the Authors themſelves expreſly carry it) as to inſpriring Faith, extorting a change of Profeſſion, and compelling to ſacrifice; in which ſenſe onely, as he hath Antiquity with him, and his preſent quotation, and in<g ref="char:EOLhyphen"/>ference are pertinent and ſound; ſo the Miniſters and Mr. <hi>Goodwins</hi> Propoſals hold a friendly compliance with Mr. <hi>Goodwin</hi> and his Antiquity, in this and the reſt of his Que<g ref="char:EOLhyphen"/>ries, and Mr. <hi>Goodwin</hi> with himſelfe, in His and the Mini<g ref="char:EOLhyphen"/>ſters Propoſals. And conſequently the generall imperti<g ref="char:EOLhyphen"/>nencie of Mr. <hi>Goodwins</hi> Queries, as to caſting any ſcruple upon the Miniſters Propoſals, or any blemiſh upon him<g ref="char:EOLhyphen"/>ſelfe, as counter-querying and quarrelling himſelfe in ſub<g ref="char:EOLhyphen"/>ſcribing them, hath thus farre beene vindicated from the miſtakes of thoſe that would needs judge other<g ref="char:EOLhyphen"/>wiſe.</p>
+            <p>The next thing to be ſhowne in Apologie for Mr. <hi>Good<g ref="char:EOLhyphen"/>win,</hi> is the Impotencie of his Queries, to infirme the Pro<g ref="char:EOLhyphen"/>poſals affirmed by his ſubſcription. And here his two laſt Queries doe onely keep the field, all the reſt of the Bri<g ref="char:EOLhyphen"/>gade
+<pb n="4" facs="tcp:118324:4"/>being juſtly caſhiered upon the Article of Imperti<g ref="char:EOLhyphen"/>nencie, in reſpect of any ſervice done by them, againſt Mr. <hi>Goodwins</hi> and the Miniſters Propoſals. The truth is, theſe two laſt Queries ſeeme to lay the Axe to the Root of the Magiſtrates power in matters of Religion, and charge Mr. <hi>Goodwin</hi> home againſt Mr. <hi>Goodwin.</hi> But to relieve Mr. <hi>Goodwin</hi> from this Charge of himſelfe againſt himſelfe, by weakning the ſtroke and blunting the edge of this Axe; the beſt way will be firſt, to lay downe the grounds, upon which Mr. <hi>Goodwins</hi> Queries ſcruple his propoſals—</p>
+            <p>And then to diſcover the ſandineſſe of thoſe grounds by the light of a few principles, to which Mr. <hi>Goodwins</hi> owne aſſent is not altogether deſpair'd.</p>
+            <p>The firſt of the two laſt Queries, bottoms is ſelfe upon a <hi>Jam ſumus ergo pares.</hi> A paritie of Reaſon why the Civill Magiſtrate may no more intermeddle in things of a reli<g ref="char:EOLhyphen"/>gious nature, then the Eccleſiaſtcall perſon in Civill. But this Stone is ſo ill ſquar'd, that one way it will be found to narrow, and the other to broad to, prove an adaequate foundation whereupon to raiſe, a Batterie that may annoy the Miniſters and Mr. <hi>Goodwins</hi> Propoſals. For things of a Religious nature are abſolutely ſuch, or mixtly. The Pro<g ref="char:EOLhyphen"/>poſals plead not for the Magiſtrates intermedling in the former, and it's preſum'd, Mr. <hi>Goodwin</hi> will not plead a<g ref="char:EOLhyphen"/>gainſt in the latter. Such are the publique Circumſtan<g ref="char:EOLhyphen"/>ce of Time, Place, and Revenue, and ſome opinions a<g ref="char:EOLhyphen"/>mongſt <hi>Papiſts</hi> or <hi>Ranters.</hi> For it is credible, ſome <hi>Papiſts</hi> would never have ſacrificed their lives in purſuance of ſome treaſonable practiſes, were it not upon the account of a religious Conſcience, though miſerably miſled. <hi>Tanlum Religio potuit ſuadere malorum.</hi> Let Mr. <hi>Goodwin</hi> re<g ref="char:EOLhyphen"/>ſolve, whether a Chriſtian Magiſtrate were obliged to ſuf<g ref="char:EOLhyphen"/>fer a Heathen under his Jurisdiction to Sacrifice his Child to <hi>Moloch</hi> &amp;c.</p>
+            <p>In the laſt place, as the foundation of the grand ſcruple and Top-ſtone of thirty Queries, comes in the conſider<g ref="char:EOLhyphen"/>able
+<pb n="5" facs="tcp:118324:4"/>queſtion, whether the Civill Magiſtrate be not a kind of Bat, that is confin'd to the twi-light of Nature; and whether the Child may adventure to take a leſſon out of any Book but natures Primmer; But leaſt the Reader be miſtaken, he muſt remember, that the Book of Nature ac<g ref="char:EOLhyphen"/>cording to Mr. <hi>Goodwins</hi> Edition, comes forth in a juſt vo<g ref="char:EOLhyphen"/>lume: the light of Nature in his Aſtronomy, is a Star of the firſt magnitude: And therefore whilſt he allowes the Ma<g ref="char:EOLhyphen"/>giſtrate a power to puniſh offenders, againſt the light and law of Nature, he out-vies the Propoſals if he be true to his owne principles. For what cannot the light of Nature ſee, if it looks with Mr. <hi>Goodwins</hi> eyes, which by the Light of Nature can diſcover the way to Faith and Salvation. But to ſpare the ſharpning any weapon at this Forge, it ſhall ſuffice (by way of concluſion) to Vindicate the Miniſters Propoſals from all juſt ground of ſcruple by a few Corollaries, whoſe Truth the light of Nature may diſcover, or at leaſt being diſcovered muſt aſſent to.</p>
+            <p n="1">1. The light of Nature teaches all men, and among others the Civill Magiſtrate, that there is a God, and that God is to be worſhiped.</p>
+            <p n="2">2. Never was there yet (it were no audacious aſſertion to add, nor never will be) any Common-Wealth in the world which publiquely owned all Religions, or none.</p>
+            <p>Its true indeed, the Scripture ſeems to hold forth a pro<g ref="char:EOLhyphen"/>miſe of a Time wherein all ſhall owne but One, when it ſpeakes of a Day, in which all ſhall ſerve the Lord with one conſent, and the Lord ſhall be one, and his Name one.</p>
+            <p n="3">3. In all Common-Wealths, where there are (as 'tis be<g ref="char:EOLhyphen"/>lieved there are in all civiliz'd Common-Wealths this day in the World) publique places and Revenues ſet apart to Religious uſes, the truſt of the diſpoſall of both, is in the Civill Magiſtrate.</p>
+            <p n="4">4. In diſpoſall of both according to this truſt, the Civill Magiſtrates duty is to uſe (at leaſt) as much wiſdome and
+<pb n="6" facs="tcp:118324:5"/>faithfulneſs as men are obliged to uſe in things that con<g ref="char:EOLhyphen"/>cern their own private.</p>
+            <p n="5">5. The wiſe and faithfull Chriſtian Magiſtrate, may be aſſured of ſome truths in the Chriſtian Religion, and their oppoſite errors.</p>
+            <p n="6">6. The Chriſtian Magiſtrate can neither diſcharge his truſt concerning ſuch places and revenues with wiſdom, nor faithfulneſs in the diſpoſall of either to perſons, either wholly unknown or known to be enemies to ſuch known truths, or friends to their oppoſite errors. It were no vaine confidence to preſume on Mr. <hi>Goodwins</hi> aſſent to this poſi<g ref="char:EOLhyphen"/>tion.</p>
+            <p>For 'tis to be ſuppoſed Mr. <hi>Goodwins</hi> Church neither would, nor indeed could be obliged upon any rationall account, to adminiſter to him of their temporall things, if they were not ſatisfied in the ſpirituall things which he adminiſters to them, at leaſt as to the maine, however in o<g ref="char:EOLhyphen"/>ther things diſſenting. And why ſhould it be accounted unreaſonable in the Magiſtrate to expect the like ſatisfacti<g ref="char:EOLhyphen"/>on in the like caſe?</p>
+            <p>Beſides,<note place="margin">2 <hi>Joh.</hi> 10</note> who can deny it to be the priviledge and duty of a Maſter of a Family, to admit ſuch onely to Teach in his Houſe as his Conſcience ſhall be ſatisfied in, and warrant him to receive? Or, to come yet a little nearer; will the Churches diſtinguiſhed by the names of Independents and Anabaptiſts (ſuppoſe Mr. <hi>Goodwins</hi> Church) admit of any perſon either wholly unknown, or known to be groſly ig<g ref="char:EOLhyphen"/>norant or ſcandalous (ſuppoſe a known Mahemetan, or one of their own judgement, and without ſcandall but wholly unknown) to Teach in their Congregations with<g ref="char:EOLhyphen"/>out their approbation, and aſſent firſt obtained? if not, (as it is preſum'd they will not) let no man ſcruple to al<g ref="char:EOLhyphen"/>low that thing to be the right of the Magiſtrate, as a pub<g ref="char:EOLhyphen"/>lique parent, in the diſpoſall of publique places and reve<g ref="char:EOLhyphen"/>nues, to perſons to be approved by himſelfe, or ſuch as he ſhall think meet to be truſted therein, which is claimed as a right by every private Parent and Congregation. And
+<pb n="7" facs="tcp:118324:5"/>whereas Mr. <hi>Goodwin</hi> in the laſt Querie hath appeal'd to the Law of Nature, as to his <hi>Caeſar,</hi> to <hi>Caeſar</hi> he ſhall goe; and therein let be remembred:
+<list>
+                  <item>Firſt, that ſo far power is gran<g ref="char:EOLhyphen"/>ted by him to the Magiſtrate in Religion, as the Law of Na<g ref="char:EOLhyphen"/>ture doth dictate.</item>
+                  <item>And ſecondly, That his Contradiſtinction is unſound in that Querie, where he diſtinguiſheth the wor<g ref="char:EOLhyphen"/>ſhipping of God in a falſe manner, from evill doing againſt the light of Nature, for here he may ſee, that Idolatry and falſe worſhip are againſt the light and law of Nature: yea that the law of Nature teacheth the Magiſtrate to make lawes againſt falſe worſhip, and Idolatry;</item>
+               </list>
+And Indeed the Apoſtle <hi>Paul</hi> might ſerve in ſtead of all proofs; who clearly ſhews, that men by the light of Nature might ſee this truth, that God was not like unto Birds nor Beaſts nor was to be worſhipped under ſuch Images; but that in ſo doing, they did deteine the Truth (even the evident Truth) in un<g ref="char:EOLhyphen"/>righteouſneſs: yet <hi>ex aebundanti,</hi> here ſhall be produced (concerning the light of Nature, directing Magiſtrates to make Lawes for Religion) The teſtimonies both of Gen<g ref="char:EOLhyphen"/>tiles and Jewes, which termes commonly comprehend all man-kind; and it may ſerve for an univerſall Teſtimony. And firſt for the Gentiles, lets hear what <hi>Plato</hi> ſaith.<note place="margin">
+                  <hi>Plato</hi> de Repub. lib. <hi>2.</hi> &amp; lib. <hi>4.</hi>
+               </note> 
+               <hi>Let the firſt Care in every well conſtituted Common-wealth be, for ſetting up the true</hi> (not a falſe or fabulous) <hi>Religion, in which let the chiefe Magiſtrate even from his Child-hood be inſtructed.</hi>
+               <note place="margin">Lib. deci<g ref="char:EOLhyphen"/>mo de legi<g ref="char:EOLhyphen"/>bus.</note> Igno<g ref="char:EOLhyphen"/>rance of the true God is the greateſt plague of all Com<g ref="char:EOLhyphen"/>mon-wealths. Therefore he pulls down the foundation of all humane Society; who takes away Religion, or abo<g ref="char:EOLhyphen"/>liſhes it out of the minds of men. Whence it is that all im<g ref="char:EOLhyphen"/>piety is to be puniſhed with the greateſt and moſt grievous puniſhments, &amp;c. Therefore in no wiſe are there to be tol<g ref="char:EOLhyphen"/>lerated in a Common-wealth well ordered, ſo much as Diſputation againſt God and his Providence, &amp;c.</p>
+            <p>Moreover the ſpeeches of them are to be reſtrained, who ſay, that Religion is but a deviſe and appointment of men, that through feare of a greater and venerable power, men may be contein'd in their duty. Thirdly, All Impiety is to
+<pb n="8" facs="tcp:118324:6"/>be puniſhed, and that is of three ſorts: The firſt denies that there is any God. The ſecond, denies that God governs theſe things, eſpecially man-kind, &amp;c. The third ſort of impiety, is of them, who counted that God by Gifts, Of<g ref="char:EOLhyphen"/>ferings, and Prayers, is appeaſed and brought to indulge mens wickedneſſe. This opinion alſo is blaſphemous: He diſturbes Religion who ſpeaks or writes impiouſly of the nature of God; therefore he is to be puniſhed, and tru<g ref="char:EOLhyphen"/>ly with death.</p>
+            <p>And in the very firſt founding of <hi>Rome, Romulus,</hi> and <hi>Numa,</hi>
+               <note place="margin">Dron. Ha<g ref="char:EOLhyphen"/>lic. l. ſecun.</note> 
+               <hi>Pompilius,</hi> the firſt Kings, laid the foundations of their Law-making, in Piety and Juſtice; and of <hi>Romulus</hi> particularly it is ſaid, that before all things he began with the divine worſhip; and of <hi>Numa, Pietatem ante omniae do<g ref="char:EOLhyphen"/>cuit homines;</hi> He taught men piety before all things: and it is alſo well knowne, that Images were not a long time admitted into the Romance Religion.<note place="margin">
+                  <hi>170</hi> years. Clem. Alex.</note>
+            </p>
+            <p>And now for the opinion of the Jewes concerning the light of Nature, condemning Idolatry, and making lawes againſt it.<note place="margin">
+                  <hi>Selden</hi> de jure Natu<g ref="char:EOLhyphen"/>ra Hebid. lib. <hi>1.</hi> cap. <hi>10.</hi> p. <hi>118.</hi>
+               </note> Mr. <hi>Selden</hi> with whoſe Learning and Judge<g ref="char:EOLhyphen"/>ment, perchance Mr. <hi>Goodwin</hi> will thinke fit to comply, rather then to conteſt; doth largely and evidently ſhow, That the <hi>Hebrewes</hi> held there were ſeven Heads of the Law of Nature commonto all Man-kind [the off-ſpring of <hi>Noah</hi>] Among them, too were between Man and the moſt holy God: And of theſe two, a firſt was Idolatry or ſtrange worſhip: A ſecond was, the Curſing or Prophanation of the name of God.</p>
+            <p>And the Gentiles that inhabited among the Jewes were FORCED to make a profeſſion of obſerving them.<note place="margin">Adige bat. p <hi>127.</hi>
+               </note>
+            </p>
+            <p>Under the Name of ſtrange worſhip forbidden to the ſeed of <hi>Noah;</hi> that is, to all mankind (according to the <hi>Hebrewes</hi>) was not onely the worſhip of Stones, Statues, images, but of Angels, heavenly bodies, the Elements or any other Creature, &amp;c.</p>
+            <p>And whenſoever in the Courts of <hi>Iſrael,</hi> ſtrange worſhip was puniſhed with death; there for the like worſhip the
+<pb n="9" facs="tcp:118324:6"/>Gentile, or Sonne of <hi>Noah,</hi> was executed by the Sword.<note place="margin">
+                  <hi>P.</hi> 132.</note> And he not onely ſhewes that theſe offenders were to be puniſhed, but that there was one Head among the ſeven (imprinted alſo in the law of Nature) for ſetling Judges and Judgements for puniſhing offenders againſt theſe Heads. And he gives a reaſon of his own: For (ſaith he) Who doth not ſee that is would be altogether vaine and fruitleſs,<note place="margin">Lib. <hi>7.</hi> cap. <hi>4.</hi> pa. <hi>801</hi>
+               </note> to make precepts and prohibitions, except there be alſo Judicatories, by which the violation of them might be reſtrained, and puniſhments inflicted for the ſame? And to the like purpoſe he ſpeaks his opinion again. <hi>Page</hi> 806.</p>
+            <p>He ſaid further. That againſt this Head of Judicatories,<note place="margin">Cap. 6. p. <hi>812</hi>
+               </note> not only thoſe offended which oppoſed the ſetling of Judi<g ref="char:EOLhyphen"/>catories, but thoſe alſo which concealed the offences com<g ref="char:EOLhyphen"/>mitted againſt the other ſix Heads [among which was Ido<g ref="char:EOLhyphen"/>latry, and Prophanation of Gods Name] and they were to be puniſhed with the ſame puniſhments, to which the offen<g ref="char:EOLhyphen"/>ders themſelves were ſubject. This then is the ſum of Mr. <hi>Seldens</hi> Doctrine out of the <hi>Hebrewes.</hi> Idolaters and Blaſ<g ref="char:EOLhyphen"/>phemers were to be puniſhed by the Law of Nature, even with Death. That Judicatories by the Law of Nature were to be ſet up for this end: That thoſe which oppoſed theſe Judicatories, were lyable to the ſame puniſhments, with the offenders themſelves.</p>
+            <p>Now let Mr. <hi>Goodwin</hi> look, whether by any of his Que<g ref="char:EOLhyphen"/>ries, he become ſubject to theſe Penalties.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
